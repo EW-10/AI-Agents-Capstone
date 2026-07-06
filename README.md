@@ -9,7 +9,9 @@ The agent was created using Antigravity. The initial prompt provided to Antigrav
 Antigravity suggested building a web app, but another option was chosen instead: “An MCP server or custom Antigravity agent/skill that integrates directly into Antigravity, allowing Antigravity to do the grilling and file generation.”
 
 Antigravity generated a SKILL.md file as part of this setup.
-Setup Instructions (Please see diagram of project structure: Project-Structure.PNG)
+
+### Setup Instructions
+Please see also a diagram of project structure: Project-Structure.PNG
 This project is designed to work within Antigravity:
 1.	Download and install Antigravity 2.0
 2.	Create the folder: %USERPROFILE%/agy2-projects/my-first-project/
