@@ -25,3 +25,5 @@ Please note: During development, the model quota was reached, preventing further
 The solution includes a SKILL.md file for the Antigravity agent and a generate_cv.js file responsible for creating the CV document. Refer to the setup instructions above to use this agent within Antigravity.
 
 After completing this agent, it became clear that a web app might ultimately be a more suitable implementation. However, due to reaching the model quota on Antigravity, further development was not possible at this stage.
+
+I have used Copilot to edit my project description and to create the project structure diagram attached.
