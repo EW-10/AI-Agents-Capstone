@@ -1,0 +1,26 @@
+{
+  "name": "cv-document-builder",
+  "version": "1.0.0",
+  "description": "An agent-powered CV and Resume builder using custom Antigravity skills and a Node.js docx generator.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "docx": "^8.5.0",
+    "express": "^4.19.2",
+    "picocolors": "^1.1.1",
+    "rss-parser": "^3.13.0"
+  },
+  "keywords": [
+    "cli",
+    "cv",
+    "resume",
+    "generator",
+    "docx"
+  ],
+  "author": "",
+  "license": "ISC"
+}
