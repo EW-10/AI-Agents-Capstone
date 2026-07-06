@@ -11,8 +11,11 @@ Antigravity suggested building a web app, but another option was chosen instead:
 Antigravity generated a SKILL.md file as part of this setup.
 
 ### Setup Instructions
-Please see also a diagram of project structure: Project-Structure.PNG
-This project is designed to work within Antigravity:
+
+This project is designed to work within Antigravity.
+
+Please see a diagram of project structure in the repository: Project-Structure.PNG
+
 1.	Download and install Antigravity 2.0
 2.	Create the folder: %USERPROFILE%/agy2-projects/my-first-project/
 3.	Inside my-first-project, create: .agents/skills/cv-builder/
