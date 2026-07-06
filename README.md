@@ -14,7 +14,7 @@ Antigravity generated a SKILL.md file as part of this setup.
 
 This project is designed to work within Antigravity.
 
-Please see a diagram of project structure in the repository: Project-Structure.PNG
+Please see a diagram of project structure in the repository-- Project-Structure.PNG
 
 1.	Download and install Antigravity 2.0
 2.	Create the folder: %USERPROFILE%/agy2-projects/my-first-project/
